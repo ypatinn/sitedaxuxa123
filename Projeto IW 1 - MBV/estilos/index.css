@@ -1,0 +1,160 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: burlywood;
+}
+
+.CabecalhoPagina{
+    text-align:center;
+    padding: 2%;
+    background-color:rgb(73, 10, 10); 
+    
+    
+}
+
+#TituloCabecalho {
+    font-family: Arial;
+    font-weight: 900;
+    color: aliceblue;
+    
+}
+
+.literatura{
+    padding: 2%;
+}
+
+
+
+#h1Categoria {
+    font-family: Arial;
+    font-style: italic;
+    font-weight: 200;
+    color: darkred;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.308);
+}
+
+.divLivro {
+    text-align: center;
+    margin-top: 5%;
+    border: solid 1px rgba(210, 105, 30, 0.518);
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 2rem;
+    background-color: rgba(210, 105, 30, 0.518);
+}
+
+.divLivro h1 {
+    font-family: Arial;
+}
+
+.divLivro img {
+    width: 20%;
+    
+}
+
+.divLivro h2 {
+    padding: 1%;
+    margin-right: 40%;
+    margin-left: 40%; 
+    font-family: Arial;
+    border: solid 1px rgb(155, 41, 26);
+    border-radius: 2rem;
+    background-color: rgb(155, 41, 26);
+
+}
+
+.divLivro a{
+    text-decoration: none;
+    color: black;
+
+
+}
+
+footer{
+    background-color: black;
+    padding: 1%;
+    text-align: left;
+    margin-right: 83%;
+    border-radius: 2rem ;
+    
+}
+
+footer p{
+    color: aliceblue;
+    font-family: Arial;
+    letter-spacing: 2px;
+}
+
+.Romance {
+    padding: 2%;
+}
+
+#h1Romance {
+    font-family: Arial;
+    font-style: italic;
+    font-weight: 200;
+    color: darkred;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.308);
+}
+
+.Navegação {
+    padding: 2%;
+    border: solid 1px #666666;
+    border-color: rgb(218, 172, 114);
+    border-radius: 1.4rem;
+    margin-left: 2%;
+    margin-right: 70%;
+    background-color: rgb(218, 172, 114);
+}
+
+.Navegação h1 {
+    font-family: Arial;
+    text-shadow: 2px 4px 4px #571a1a9a;
+
+}
+
+.navegacaoLiteratura a {
+    text-decoration: none;
+    color: rgb(80, 23, 23);
+
+}
+
+#ParteRomance {
+    font-family: Arial;
+    text-shadow: 2px 4px 4px #571a1a9a;
+    font-size: 32px;
+}
+
+#Menu_navegação {
+    font-family: Arial;
+    text-shadow: 2px 4px 4px #571a1a9a;
+    font-size: 32px;
+}
+
+#éIsso {
+    font-style:italic;
+    font-size: 2.1rem;
+    color: rgb(46, 1, 1);
+    text-shadow: 2px 4px 4px #571a1a9a;
+}
+
+
+.lista a {
+    text-decoration: none;
+    color: rgb(37, 5, 5);
+}
+
+.nome_lista {
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+
+
+
+    
+
+
+/*arrumar bordas da tag <a>*/
+/*desisto de tentar*/
+/*add interatividade com os elementos*/
